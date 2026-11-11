@@ -1,0 +1,3 @@
+網站發布：上傳 index.html、bank-config.js、三個 PDF 到網站根目錄。
+管理員：本機開啟 admin.html（同資料夾有 bank-config.js），切換題庫，下載 bank-config.js 並覆蓋網站同名檔案。
+注意：此為靜態網站，非密碼驗證的雲端後台。不要把 admin.html 上傳到公開網站。
